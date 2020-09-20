@@ -1,8 +1,8 @@
-siteTitle: HongLimPark.sg
+siteTitle: Hong Lim Park
 siteUrl: 'https://HongLimPark.sg'
 siteDescription: >-
   A starter project for creating lightning-fast websites with Gatsby v2 Netlify
   CMS v2 and Uploadcare media library.
 socialMediaCard:
   image: 'https://ucarecdn.com/aa44ed36-1ba6-494a-a973-51317c53c927/'
-googleTrackingId: ''
+googleTrackingId: UA-110078858-6
