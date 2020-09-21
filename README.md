@@ -16,8 +16,7 @@
 ## What is This?
 
 HongLimPark.sg aims to be a platform to promote awareness about the goings on at the only Speaker's corner in Singapore.
-A One Stop resource for all things speaker's corner and not getting arrested trying to voice your views. Currently still under development 
-
+A One Stop resource for all things speaker's corner and not getting arrested trying to voice your views. Currently still under development and open source, feel free to make a pull request!
 ## Get going
 
 
