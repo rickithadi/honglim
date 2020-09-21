@@ -1,9 +1,8 @@
-# Yellowcake
+# HongLimPark.sg
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![dependencies](https://david-dm.org/jinksi/netlify-cms-react-starter.svg?style=flat-square)](https://david-dm.org/jinksi/gatsbro)
 
-An opinionated starter project for creating lightning-fast websites with [Gatsby](https://gatsbyjs.org) v2 and [Netlify CMS](https://netlifycms.org) v2. Made by [Thrive Web Design on the Gold Coast, Australia](https://thriveweb.com.au)
 
 - **[Gatsby](https://gatsbyjs.org)** static site generator
 - **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
@@ -13,9 +12,14 @@ An opinionated starter project for creating lightning-fast websites with [Gatsby
 [Netlify CMS Docs](https://www.netlifycms.org/docs/)  
 [Netlify CMS Repo](https://github.com/netlify/netlify-cms)
 
+
+## What is This?
+
+HongLimPark.sg aims to be a platform to promote awareness about the goings on at the only Speaker's corner in Singapore.
+A One Stop resource for all things speaker's corner and not getting arrested trying to voice your views. Currently still under development 
+
 ## Get going
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
 
 1.  Hit the **Deploy to Netlify** button. This will:
 
